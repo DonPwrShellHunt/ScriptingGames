@@ -5,7 +5,12 @@ Even though I used MS Code to make the last update, it was not aware of the git 
 that I performed via Tower on my iMac. This change however, is going to be one I play with
 totally within the Code framework to see how it handles git.
 
+<<<<<<< HEAD
 VS Code was able to handle updating a file (README.md), going through a commit, and doing 
 a sync using the Code git interface elements. This particular update is being done via Code,
 but I want to see if Tower detects the file change, and process this change through Tower to 
 confirm my authentication change continues to work. 
+=======
+Updated GitHub on Win10 after updating authentication info. This modification will confirm
+if VS Code git integration is still working.
+>>>>>>> 56a93cebbe450ba18cbceb7da9b4a2fa3988701a
