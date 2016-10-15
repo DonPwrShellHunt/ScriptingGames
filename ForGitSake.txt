@@ -2,3 +2,4 @@ In my quest to understand how git works, I'm adding content to
 a new file in ScriptingGames, and will manipulate the repo in
 several different ways to get a better appreciation of git
 operations.
+
