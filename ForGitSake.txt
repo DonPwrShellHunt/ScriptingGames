@@ -3,3 +3,5 @@ a new file in ScriptingGames, and will manipulate the repo in
 several different ways to get a better appreciation of git
 operations.
 
+Updating this content to confirm git is still working after performing an upgrade to Mojave.
+I would not be surprised if I have to update some of the command line tools to make it work.
