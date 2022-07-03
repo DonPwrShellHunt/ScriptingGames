@@ -9,3 +9,15 @@ I would not be surprised if I have to update some of the command line tools to m
 Additional testing of the VS Code running on a MacBook Pro. This Apple Silicon based laptop 
 is going to be a challenge for some software development tooling. THe arm64 architecture is
 not univerally supported yet, so I expect some hicups getting my environment setup.
+
+find /opt/homebrew/opt/oh-my-posh/themes/ -name "*minimal*"
+/opt/homebrew/opt/oh-my-posh/themes//onehalf.minimal.omp.json
+/opt/homebrew/opt/oh-my-posh/themes//probua.minimal.omp.json
+/opt/homebrew/opt/oh-my-posh/themes//stelbent.minimal.omp.json
+/opt/homebrew/opt/oh-my-posh/themes//hotstick.minimal.omp.json
+
+date
+Sun Jul  3 13:18:58 EDT 2022
+
+Above two paragraphs were from a block copy operation in Warp. Very clean - no prompt garbage like I observed before.
+The oh-my-posh theme in effect during this period was craver.omp.json.
