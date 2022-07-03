@@ -5,3 +5,7 @@ operations.
 
 Updating this content to confirm git is still working after performing an upgrade to Mojave.
 I would not be surprised if I have to update some of the command line tools to make it work.
+
+Additional testing of the VS Code running on a MacBook Pro. This Apple Silicon based laptop 
+is going to be a challenge for some software development tooling. THe arm64 architecture is
+not univerally supported yet, so I expect some hicups getting my environment setup.
